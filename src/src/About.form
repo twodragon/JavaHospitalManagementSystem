@@ -121,7 +121,7 @@
         <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="80" green="0" red="80" type="rgb"/>
         </Property>
-        <Property name="text" type="java.lang.String" value="Seher G&#xdc;REL"/>
+        <Property name="text" type="java.lang.String" value=""/>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel4">
@@ -129,7 +129,7 @@
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="Tahoma" size="14" style="3"/>
         </Property>
-        <Property name="text" type="java.lang.String" value="Staj yaz-2018  Sinerji Bili&#x15f;im"/>
+        <Property name="text" type="java.lang.String" value="Staj yaz"/>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel6">
@@ -137,7 +137,7 @@
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="Tahoma" size="14" style="2"/>
         </Property>
-        <Property name="text" type="java.lang.String" value="Developed By :"/>
+        <Property name="text" type="java.lang.String" value="Developed By : #"/>
       </Properties>
     </Component>
   </SubComponents>
