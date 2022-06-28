@@ -9,6 +9,7 @@
  */
 import java.awt.*;
 import java.awt.event.KeyEvent;
+import java.awt.event.MouseEvent;
 import java.sql.*;
 import javax.swing.*;
 
@@ -144,6 +145,9 @@ public class Login extends javax.swing.JFrame {
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
+
+    protected void girisbtnMouseClicked(MouseEvent evt) {
+    }
 
     private void txtUserNameMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_txtUserNameMouseClicked
         // TODO add your handling code here:

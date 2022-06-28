@@ -548,10 +548,10 @@ private void Reset()
     private javax.swing.JPanel jPanel3;
     private javax.swing.JScrollPane jScrollPane3;
     public javax.swing.JFormattedTextField txtAdmitDate;
-    private javax.swing.JTextField txtAdmitID;
+    javax.swing.JTextField txtAdmitID;
     public javax.swing.JTextField txtBloodGroup;
     public javax.swing.JFormattedTextField txtDischargeDate;
-    private javax.swing.JTextField txtDischargeID;
+    javax.swing.JTextField txtDischargeID;
     public javax.swing.JTextField txtDisease;
     public javax.swing.JTextField txtDoctorID;
     public javax.swing.JTextField txtDoctorName;

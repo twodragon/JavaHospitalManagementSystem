@@ -860,12 +860,12 @@ public class Bill_Room extends javax.swing.JFrame {
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JTable jTable1;
     public javax.swing.JFormattedTextField txtAdmitDate;
-    private javax.swing.JTextField txtAdmitID;
-    private javax.swing.JTextField txtBillNo;
+    javax.swing.JTextField txtAdmitID;
+    javax.swing.JTextField txtBillNo;
     public javax.swing.JFormattedTextField txtBillingDate;
     public javax.swing.JTextField txtBloodGroup;
     public javax.swing.JFormattedTextField txtDischargeDate;
-    private javax.swing.JTextField txtDischargeID;
+    javax.swing.JTextField txtDischargeID;
     public javax.swing.JTextField txtDisease;
     public javax.swing.JTextField txtDoctorID;
     public javax.swing.JTextField txtDoctorName;

@@ -462,7 +462,7 @@ PreparedStatement pst=null;
     public javax.swing.JTextField txtPatientName;
     public javax.swing.JTextField txtServiceCharges;
     public javax.swing.JFormattedTextField txtServiceDate;
-    private javax.swing.JTextField txtServiceID;
+    javax.swing.JTextField txtServiceID;
     public javax.swing.JTextField txtServiceName;
     // End of variables declaration//GEN-END:variables
 }

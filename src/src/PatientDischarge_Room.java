@@ -552,7 +552,7 @@ private void Reset()
     public javax.swing.JTextField txtAdmitID;
     public javax.swing.JTextField txtBloodGroup;
     public javax.swing.JFormattedTextField txtDischargeDate;
-    private javax.swing.JTextField txtDischargeID;
+    javax.swing.JTextField txtDischargeID;
     public javax.swing.JTextField txtDisease;
     public javax.swing.JTextField txtDoctorID;
     public javax.swing.JTextField txtDoctorName;

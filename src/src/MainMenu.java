@@ -75,7 +75,7 @@ public class MainMenu extends javax.swing.JFrame {
         setTitle("Ana Menu");
         setResizable(false);
 
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/src/cover.jpg"))); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("cover.jpg"))); // NOI18N
 
         jMenu2.setText("Kullancılar");
 
